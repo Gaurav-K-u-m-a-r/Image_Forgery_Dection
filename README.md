@@ -12,6 +12,8 @@ A Deep Learning project that classifies images as **Pristine (Real)** or **Fake 
 
 To build a deep learning model capable of distinguishing between real (pristine) and fake images using Convolutional Neural Networks and Transfer Learning techniques.
 
+For this we have kept the Epoch value to 1 only. For best accuracy we tried it still 15 and 10 was perfect. 
+
 ---
 
 ## 🏗️ Models Implemented
